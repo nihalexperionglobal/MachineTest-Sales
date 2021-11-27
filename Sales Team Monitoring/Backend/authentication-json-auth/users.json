@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "nihalfarhankt101@gmail.com",
+      "password": "$2a$10$Uk2lelohWZ.Sknm3Uis.Xu6YxcmwRVriBXDOQ40wUdRoUZbiZ7qTy",
+      "role": "Admin",
+      "firstname": "Nihal",
+      "lastname": "KT",
+      "gender": "Male",
+      "age": "24",
+      "address": "KALARIKKANDI(H) Andiyoorkunnu(PO) Kottappuram, Malappuram",
+      "phone": "08129398975",
+      "id": 1
+    },
+    {
+      "email": "nihalfarhankt@gmail.com",
+      "password": "$2a$10$0lMLdAyP.eQyaXrO1YTPRO8imQF7fD6crXSQr4dX8/THa4X/3/jqu",
+      "role": "Admin",
+      "firstname": "Nihal",
+      "lastname": "KT",
+      "gender": "male",
+      "age": "24",
+      "address": "KALARIKKANDI(H) Andiyoorkunnu(PO) Kottappuram, Malappuram",
+      "phone": "08129398975",
+      "id": 2
+    },
+    {
+      "email": "nihal@gmail.com",
+      "password": "$2a$10$sxgnUgQ7eXyiNbpbLPbkM.7LuHIrzIm4ZRupbXKarZh.VzPCkWUj2",
+      "role": "Sales",
+      "firstname": "Nihal",
+      "lastname": "KT",
+      "gender": "Male",
+      "age": "24",
+      "address": "KALARIKKANDI(H) Andiyoorkunnu(PO) Kottappuram, Malappuram",
+      "phone": "08129398975",
+      "id": 3
+    },
+    {
+      "email": "n1@gmail.com",
+      "password": "$2a$10$FpGWJ1jpUJMQbcrhKsbkOej6Y9bGGpFvb3p18JdimDiQfU4W7Mpfq",
+      "userType": "Sales",
+      "firstname": "Nihal",
+      "lastname": "KT",
+      "gender": "Male",
+      "age": "24",
+      "address": "KALARIKKANDI(H) Andiyoorkunnu(PO) Kottappuram, Malappuram",
+      "phone": "08129398975",
+      "id": 4
+    },
+    {
+      "email": "nfkt@gmail.com",
+      "password": "$2a$10$A6f18n7PXOfvgE..YCGZRupHEJMsBjq./EgmjpuljLVOXQuTlj7IK",
+      "role": "Sales",
+      "firstname": "Nihal",
+      "lastname": "KT",
+      "gender": "Male",
+      "age": "25",
+      "address": "KALARIKKANDI(H) Andiyoorkunnu(PO) Kottappuram, Malappuram",
+      "phone": "08129398975",
+      "id": 5
+    }
+  ]
+}

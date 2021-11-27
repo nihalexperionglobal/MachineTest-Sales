@@ -1,0 +1,64 @@
+.header{
+
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    /* background-color: antiquewhite; */
+    height: 15vh;
+    overflow: auto;
+}
+
+.title{
+    flex-grow: 2;
+    color: whitesmoke;
+    width: 100%;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    
+    
+}
+
+.navbar{
+    flex-grow: 1;
+    background-color: dodgerblue;
+    width: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-sizing: border-box;
+    /*
+    For sticky navbar 
+    position: sticky;
+    top:0px;
+    align-self: flex-start;
+    overflow-y: auto; 
+    */
+}
+
+.contentbox{
+    background-color: lightseagreen;
+    width: inherit;
+    text-align:center;
+    padding-top: 20px;
+    box-sizing: content-box;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:lightskyblue;
+    border-radius: 10px;
+   
+}
+
+.contentbox:hover{
+    background-color: lightskyblue;
+    color: lightseagreen;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}

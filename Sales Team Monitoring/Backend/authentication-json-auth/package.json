@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.0.2"
+  },
+  "devDependencies": {
+    "json-server-auth": "^2.1.0"
+  }
+}

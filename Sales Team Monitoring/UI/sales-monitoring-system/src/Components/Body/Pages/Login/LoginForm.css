@@ -1,0 +1,67 @@
+.mainBody{
+    background-color: beige;
+    left: 250px;
+    position: relative;
+    top: 100px;
+    width: 40%;
+    height: 60vh;
+    border-radius: 20px;
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 10px 8px #888888;
+    border: 1px solid;
+    border-style: none;
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+}
+
+.row{
+    display: flex;
+    background-color: dodgerblue;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    height: 4vh;
+
+}
+
+input{
+    width: 40%;
+    border-radius: 10px;
+    border-style: none;
+    background-color: lightskyblue;
+    color: white;
+
+}
+
+label{
+    color: white;
+    font-size: 2rem;
+    
+}
+
+.btn{
+    background-color: #5cb85c;
+    font-family: Arial;
+    flex-grow: 1;
+    border-radius: 10px;
+    border-style: none;
+
+
+}
+
+.btnCancel{
+    background-color: #d9534f;
+    font-family: Arial;
+    flex-grow: 1;
+    border-radius: 10px;
+    border-style: none;
+
+}
+
+
+

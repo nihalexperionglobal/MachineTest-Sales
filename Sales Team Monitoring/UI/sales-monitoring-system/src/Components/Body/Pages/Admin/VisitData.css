@@ -1,0 +1,65 @@
+
+
+.visitListBox{
+    margin-top: 50px;
+    margin-left: 15%;
+    background-color: lightseagreen;
+    height: 70vh;
+    width: 70%;
+    border-radius: 10px;
+    overflow-y: scroll;
+    
+    
+    
+}
+
+.visitListTitle{
+
+    text-align: center;
+    color: whitesmoke;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    
+
+}
+
+.visitListUL{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-left: 10%;
+    
+    width:80%;
+    
+    
+    border-radius: 10px;
+    /* padding: 10px; */
+    
+}
+
+.visitListLI{
+    
+    text-decoration: none;
+    list-style-type: none;
+    background-color: tomato;
+    text-align: center;
+    border-radius: 10px;
+
+
+}
+
+.btnList{
+
+    border-style: none;
+   
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.btnA{
+    background-color: red;
+    
+}
+.btnB{
+    background-color: yellow;
+}
